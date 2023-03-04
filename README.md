@@ -1,4 +1,4 @@
-# COVID-19-Patient-Management-System
+## COVID-19-Patient-Management-System
 This is a COVID-19 Patient Management System created using C language
 
-[Demonstration video](/DemonstrationVideo/README.md)
+[Demonstration video](/DemonstrationVideo)
